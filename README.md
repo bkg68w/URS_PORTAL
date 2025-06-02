@@ -1,2 +1,2 @@
-# URS_PORTAL
-Public-facing portal for Unified Resonant Substrate (URS) theory, simulations and outreach
+# URS Online Portal
+This repository hosts the public-facing website for the Unified Resonant Substrate theory.
