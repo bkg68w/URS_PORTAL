@@ -2,8 +2,8 @@
 layout: default
 title: URS Online Portal
 ---
+<img src="assets/URS_logo.png" alt="URS Logo" width="200" style="display:block;margin:auto;" />
 
-<img src="/assets/URS_logo.png" width="200" alt="URS Logo" style="display:block;margin:auto;"/>
 
 # Unified Resonant Substrate (URS)
 
