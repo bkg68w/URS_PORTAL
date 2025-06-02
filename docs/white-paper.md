@@ -105,7 +105,7 @@ The full Lagrangian includes:
 
 URS welcomes collaboration in the following areas:
 - Experimental physics (quantum timing, atomic clocks, decay tracking)
-- Theoretical modeling (coherence field simulations, Lagrangian refinement)
+- Theoretical modeling (coherence field simulations)
 - Hardware design (quantum coherence preservation)
 - Ethical deployment of predictive physics
 
