@@ -66,7 +66,7 @@ m = \lambda N^\gamma + \kappa (\Delta \phi)^\delta
 
 ---
 
-### 6. Red Noise Suppression Test
+### 1. Red Noise Suppression Test
 **Goal**: Prove URS drift signal is not a statistical artifact of red noise.
 
 - **Process**: Apply wavelet + SSA filtering to known red noise profiles
@@ -76,7 +76,7 @@ m = \lambda N^\gamma + \kappa (\Delta \phi)^\delta
 
 ---
 
-### 7. ACES Mission Coupling Variance Test
+### 2. ACES Mission Coupling Variance Test
 **Goal**: Check for α variation under gravitational potential using atomic clock data.
 
 - **Method**: Analyze α-equivalent behavior under high-curvature environments
@@ -85,7 +85,7 @@ m = \lambda N^\gamma + \kappa (\Delta \phi)^\delta
 
 ---
 
-### 8. Decay Timing Curvature Correlation
+### 3. Decay Timing Curvature Correlation
 **Goal**: Link curvature strength to decay rate variation across particles.
 
 - **Model**: Use φ-compression stress metric to modulate decay timing
