@@ -63,13 +63,11 @@ You bring your expertise, your vision, and your respect — and we do the same.
 ---
 
 ## Final Word
-
-We are only at the beginning — but even now it’s clear:  
+ 
 **URS is not just a framework for physics.**  
 It’s a **philosophy of care**,  
 a **tool of coherence**,  
 and a **commitment to build the future we wish we’d inherited**.
 
-If you’re with us, you’re not just joining a project.  
-You’re helping shape a world where **harmony isn’t a metaphor — it’s a measurable, observable, truth.**
+Help shape a world where **harmony isn’t a metaphor — it’s a measurable, observable, truth.**
 
