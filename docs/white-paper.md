@@ -125,7 +125,7 @@ For full access to the URS_L6 formulation and core simulation code, collaboratio
 
 ## Contact & Participation
 
-- **Website**: [https://yourname.github.io/urs-portal/](https://yourname.github.io/urs-portal/)
+- **Website**: [https://bkg68w.github.io/urs-portal/](https://bkg68w.github.io/urs-portal/)
 - **Proposal Submission**: See `/templates/collaboration.md`
 - **Educational Materials**: Coming soon in `/outreach/`
 
