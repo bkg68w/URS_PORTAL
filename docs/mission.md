@@ -1,4 +1,3 @@
-# URS Mission & Ethos
 # URS Mission Statement
 
 The **Unified Resonant Substrate (URS)** project is dedicated to uncovering the resonant structure of reality — to understanding **mass**, **time**, and **coherence** not as postulated phenomena but as **emergent features** of a deeper geometric harmony.
