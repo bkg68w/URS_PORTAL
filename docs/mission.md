@@ -16,9 +16,8 @@ We believe there's another way.
 
 URS is an **open-handed challenge to the status quo** — a reminder that the structure of the universe may be subtle, but it is not unknowable.
 
-> If we can understand how **phase**, **curvature**, and **resonance** interact to produce the physical world,  
-> we might not just explain reality more clearly —  
-> we might start to interact with it more responsibly.
+> If we can begin to understand reality 
+ > we might start to interact with it more responsibly.
 
 This is the heart of URS:  
 **Knowledge and responsibility are inseparable.**
