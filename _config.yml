@@ -3,3 +3,6 @@ title: URS Portal
 description: Unified Resonant Substrate Public Interface
 include:
   - _includes/head-custom.html
+include:
+  - docs
+baseurl: "/URS_PORTAL"  # Only if using GitHub Pages default domain
