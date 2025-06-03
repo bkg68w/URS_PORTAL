@@ -16,7 +16,7 @@ Welcome to the official URS portal.
 
 ## 🔗 Explore:
 
-- [Theory & Mission](docs/mission.md)
+- [Mission & Ethos](docs/mission.md)
 - [Technical White Paper](docs/white-paper.md)
 - [Simulation Results](docs/validation.md)
 - [Live Simulations](simulations/)
