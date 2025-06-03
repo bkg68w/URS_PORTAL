@@ -19,7 +19,7 @@ Ready to collaborate with URS? Start by reviewing our official documents:
 
 - [ Collaboration Agreement](/assets/URS_Collaboration_Proposal_Form.odt)
 - [ Mutual NDA (PDF)](../assets/URS_Mutual_NDA.pdf)
-- [ Proposal Form ](../assets/URS_Collaboration_Proposal_Form.pdf)
+- [ Proposal Form ](/assets/URS_Collaboration_Proposal_Form.odt)
 
 These documents outline how we work, what we protect, and how we partner responsibly. Please review them before reaching out — we look forward to hearing your ideas.
 
