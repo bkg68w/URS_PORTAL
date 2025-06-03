@@ -17,7 +17,7 @@ URS welcomes researchers, engineers, and institutions committed to responsible i
 
 Ready to collaborate with URS? Start by reviewing our official documents:
 
-- [ Collaboration Agreement](/assets/URS_Collaboration_Proposal_Form.odt)
+- [ Collaboration Agreement](/assets/URS_Collaboration_Proposal_Form.pdf)
 - [ Mutual NDA (PDF)](../assets/URS_Mutual_NDA.pdf)
 - [ Proposal Form ](/assets/URS_Collaboration_Proposal_Form.odt)
 
