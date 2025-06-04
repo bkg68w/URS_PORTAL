@@ -31,3 +31,6 @@ These documents outline how we work, what we protect, and how we partner respons
 2. Email them to: **URSproject6@gmail.com**
 3. Subject line:**"Proposal Submission"**
 4. You will receive confirmation and a follow-up within 5–7 business days.
+
+
+[← Return to Home](/index.md)
