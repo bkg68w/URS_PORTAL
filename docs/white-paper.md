@@ -56,36 +56,10 @@ The full Lagrangian includes:
 
 **Note**: Detailed equations and parameterizations are under provisional patent protection and released only under NDA or partnership agreements.
 
----
-
-## IV. Validation Summary
-
-###  Tier 1: Theoretical Simulations
-
-- **Mass Predictions (Leptons)**  
-  \[ m = \lambda N^\gamma + \kappa (\Delta \phi)^\delta \]  
-  Fitted to e⁻, μ⁻, τ⁻ masses with high precision using only structural inputs.
-
-- **Bell & GHZ State Simulation**  
-  Recreated entangled state drift and collapse under modeled φ-phase variation.
-
-- **Time Emergence Simulation**  
-  Confirmed that φ-envelope interference reconstructs time evolution in non-classical frames.
-
-###  Tier 2: Alignment with Physical Observations
-
-- **Pulsar Timing Drift (PSR J0737−3039B)**  
-  Predicted phase shifts align with observational data (r = 0.988 correlation)
-
-- **Red Noise Suppression & Residual Drift**  
-  URS-predicted drift persists even after aggressive red noise removal (r = 0.9996)
-
-- **ACES Mission Coupling Variance**  
-  URS predicts subtle α-variation under high curvature — testable against archived data.
 
 ---
 
-## V. Applications and Future Work
+## IV. Applications and Future Work
 
 ### Near-Term
 
@@ -101,7 +75,7 @@ The full Lagrangian includes:
 
 ---
 
-## VI. Open Collaboration
+## V. Open Collaboration
 
 URS welcomes collaboration in the following areas:
 - Experimental physics (quantum timing, atomic clocks, decay tracking)
@@ -113,7 +87,7 @@ To download NDA and proposal forms, please navigate to our collaboration page
 
 ---
 
-## VII. Disclaimer & IP Statement
+## VI. Disclaimer & IP Statement
 
 The URS framework is protected under the provisional patent:  
 **"System and Method for Predicting Mass and Phase Drift via Quantized Substrate Geometry"**
