@@ -1,6 +1,6 @@
 # URS Simulation Validation Summary
 
-This document outlines the current simulation validations for the Unified Resonant Substrate (URS) framework, grouped by **Tier 1 (core theoretical modeling) and Tier 2 (real-world alignment tests)**.
+Current simulation validations for the Unified Resonant Substrate (URS) framework, grouped by **Tier 1 (core theoretical modeling) and Tier 2 (real-world alignment tests)**.
 
 ---
 
