@@ -111,7 +111,7 @@ All simulations:
 - Avoid retrofitting to known values
 - Are reproducible with clean inputs
 
-For full access or custom-run simulations, please submit a proposal via - [Collaboration & Proposals](templates/collaboration.md).
+For full access or custom-run simulations, please submit a proposal via - [Collaboration & Proposals](index.md/docs/collaboration.md).
 
 ---
 
