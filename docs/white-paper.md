@@ -128,5 +128,6 @@ For full access to the URS_L6 formulation and core simulation code, collaboratio
 - **Website**: [https://bkg68w.github.io/urs-portal/](https://bkg68w.github.io/urs-portal/)
 - **Proposal Submission**: See `/templates/collaboration.md`
 - **Educational Materials**: Coming soon in `/outreach/`
+- **Contact:ursproject6@gmail.com
 
 > URS is more than a theory — it's a commitment to clarity, care, and collaborative discovery.
