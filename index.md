@@ -7,7 +7,7 @@ title: URS Online Portal
 
 
 
-<link rel="stylesheet" href="/assets/custom.css">
+
 
 
 # Unified Resonant Substrate (URS)
