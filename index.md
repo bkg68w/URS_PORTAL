@@ -23,11 +23,11 @@ If we can predict the drift, we can preserve coherence.
 ## Explore the theory and join the next generation of scientific discovery and quantum innovation.
 
 
- **- [Mission & Ethos](docs/mission.md)**
-## - [Theory Overview](docs/white-paper.md)
-## - [Simulation Results](docs/validation.md)
-## - [Project 6](docs/Project6.md)
-## - [Collaboration & Proposals](templates/collaboration.md)
+## **- [Mission & Ethos](docs/mission.md)**
+## **- [Theory Overview](docs/white-paper.md)**
+## **- [Simulation Results](docs/validation.md)**
+## **- [Project 6](docs/Project6.md)**
+## **- [Collaboration & Proposals](templates/collaboration.md)**
 
 *This is an invitation.
 How will you contribute?*
