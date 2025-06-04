@@ -97,9 +97,8 @@ Project 6 is open for collaborative validation and deployment. We are actively s
 - High-precision timing research
 - Optical and resonant field modeling
 - Startup-scale funding and ethical deployment
+- [Collaboration & Proposals](templates/collaboration.md) 
 
-[ Download NDA and Proposal Form]() - [Collaboration & Proposals](templates/collaboration.md) 
-[ Submit Your Proposal](URSproject6@gmail.com)
 
 ---
 ## IP Disclosure
