@@ -27,8 +27,8 @@ How will you contribute?**
 ## Explore the theory. Run the calculator. Join the next generation of scientific discovery and quantum innovation.
 
 
-- [Mission & Ethos](docs/mission.md)
-- [Theory Overview](docs/white-paper.md)
-- [Simulation Results](docs/validation.md)
-- [Project 6](docs/Project6.md)
-- [Collaboration & Proposals](templates/collaboration.md)
+## - [Mission & Ethos](docs/mission.md)
+## - [Theory Overview](docs/white-paper.md)
+## - [Simulation Results](docs/validation.md)
+## - [Project 6](docs/Project6.md)
+## - [Collaboration & Proposals](templates/collaboration.md)
