@@ -98,8 +98,8 @@ Project 6 is open for collaborative validation and deployment. We are actively s
 - Optical and resonant field modeling
 - Startup-scale funding and ethical deployment
 
-[ Download NDA and Proposal Form]()  
-[ Submit Your Proposal](mailto:URSproject6@gmail.com)
+[ Download NDA and Proposal Form]() - [Collaboration & Proposals](templates/collaboration.md) 
+[ Submit Your Proposal](URSproject6@gmail.com)
 
 ---
 ## IP Disclosure
