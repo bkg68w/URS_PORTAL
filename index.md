@@ -19,12 +19,8 @@ At the heart of this effort is Project 6 — a bold initiative to detect and cor
 
 If we can predict the drift, we can preserve coherence.
 
-## URS is ready. The tools are live. The future is now.
 
-*This is an invitation.
-How will you contribute?*
-
- **Explore the theory and join the next generation of scientific discovery and quantum innovation.**
+ ## Explore the theory and join the next generation of scientific discovery and quantum innovation.
 
 
 ## - [Mission & Ethos](docs/mission.md)
@@ -32,3 +28,8 @@ How will you contribute?*
 ## - [Simulation Results](docs/validation.md)
 ## - [Project 6](docs/Project6.md)
 ## - [Collaboration & Proposals](templates/collaboration.md)
+
+## URS is ready. The tools are live. The future is now.
+
+*This is an invitation.
+How will you contribute?*
