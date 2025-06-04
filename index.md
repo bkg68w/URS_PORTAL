@@ -24,7 +24,7 @@ If we can predict the drift, we can preserve coherence.
 *This is an invitation.
 How will you contribute?*
 
- **Explore the theory. Run the calculator. Join the next generation of scientific discovery and quantum innovation.**
+ **Explore the theory and join the next generation of scientific discovery and quantum innovation.**
 
 
 ## - [Mission & Ethos](docs/mission.md)
