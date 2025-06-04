@@ -1,4 +1,4 @@
-# 🌀 Project 6: Quantum Drift Detection & Stability Framework
+#  Project 6: Quantum Drift Detection & Stability Framework
 
 ## What Is Project 6?
 
@@ -10,23 +10,23 @@ It is **not just a thought experiment**: Project 6 is a working prototype that u
 
 ---
 
-## 🎯 Objectives of Project 6
+##  Objectives of Project 6
 
-- ✅ **Detect Pre-Decoherence Conditions**  
+-  **Detect Pre-Decoherence Conditions**  
   Measure φ-phase drift and resonance strain as a precursor to decoherence.
 
-- ✅ **Model Mass Emergence as Signal**  
+-  **Model Mass Emergence as Signal**  
   Use mass signature anomalies as an indicator of coherence loss.
 
-- ✅ **Stabilize Quantum States in Real Time**  
+-  **Stabilize Quantum States in Real Time**  
   Apply URS corrections to maintain entangled system stability over longer durations.
 
-- ✅ **Map Geometry to Behavior**  
+-  **Map Geometry to Behavior**  
   Predict the evolution of entangled systems in curved or noisy environments using geometric harmonics.
 
 ---
 
-## 🧪 Validation Achievements (to date)
+##  Validation Achievements (to date)
 
 | Validation Suite      | Result                             | Notes |
 |-----------------------|------------------------------------|-------|
@@ -41,20 +41,20 @@ It is **not just a thought experiment**: Project 6 is a working prototype that u
 ## 🛠 Project Architecture
 
 ### URS_L6 Core Lagrangian Components:
-- `Kinetic φ-Term`: nonlinear substrate curvature response
-- `Harmonic Recycling`: coherence loss modeled as energy gradient compression
-- `Topological Compaction`: nonlinear mass emergence scaling via N
-- `Angular Suppression`: geometric coherence limit (α)
+- **Kinetic φ-Term:** nonlinear substrate curvature response
+- **Harmonic Recycling:** coherence loss modeled as energy gradient compression
+- **Topological Compaction:** nonlinear mass emergence scaling via N
+- **Angular Suppression:** geometric coherence limit (α)
 
 ### Toolchain:
-- ✅ Jupyter/Colab simulator
-- ✅ Qiskit GHZ/Bell state validations
-- ✅ CERN ROOT file integration
-- ✅ Overleaf white paper build system
+-  Jupyter/Colab simulator
+-  Qiskit GHZ/Bell state validations
+-  CERN ROOT file integration
+-  Overleaf white paper build system
 
 ---
 
-## 🌍 Real-World Applications
+##  Real-World Applications
 
 **Quantum Computing:**
 - Pre-decoherence drift detection
@@ -76,7 +76,7 @@ It is **not just a thought experiment**: Project 6 is a working prototype that u
 
 ---
 
-## 📈 Industry Engagement & Future Vision
+##  Industry Engagement & Future Vision
 
 ### Short-Term:
 - Partner with quantum computing firms (e.g., Rigetti, IBMQ) for Tier 2 lab validation
@@ -91,7 +91,7 @@ It is **not just a thought experiment**: Project 6 is a working prototype that u
 
 ---
 
-## 🤝 Collaborate on Project 6
+##  Collaborate on Project 6
 
 Project 6 is open for collaborative validation and deployment. We are actively seeking partners in the following areas:
 
@@ -100,13 +100,14 @@ Project 6 is open for collaborative validation and deployment. We are actively s
 - Optical and resonant field modeling
 - Startup-scale funding and ethical deployment
 
-[📄 Download NDA and Proposal Form](/docs/nda.pdf)  
-[📬 Submit Your Proposal](mailto:collaborate@ursportal.org)
+[ Download NDA and Proposal Form]()  
+[ Submit Your Proposal](mailto:URSproject6@gmail.com)
 
 ---
 
-## 🧾 Citation (Placeholder)
-*Gardner, B. (2025). "Project 6: Detecting Resonant Phase Drift Using Substrate Harmonics." Unified Resonant Substrate White Paper v5.0.*
+## IP Disclosure
+*The URS framework is protected under the provisional patent:
+"System and Method for Predicting Mass and Phase Drift via Quantized Substrate Geometry"*
 
 ---
 
