@@ -38,7 +38,7 @@ It is **not just a thought experiment**: Project 6 is a working prototype that u
 
 ---
 
-## 🛠 Project Architecture
+##  Project Architecture
 
 ### URS_L6 Core Lagrangian Components:
 - **Kinetic φ-Term:** nonlinear substrate curvature response
@@ -46,7 +46,7 @@ It is **not just a thought experiment**: Project 6 is a working prototype that u
 - **Topological Compaction:** nonlinear mass emergence scaling via N
 - **Angular Suppression:** geometric coherence limit (α)
 
-### Toolchain:
+### ToolBox:
 -  Jupyter/Colab simulator
 -  Qiskit GHZ/Bell state validations
 -  CERN ROOT file integration
