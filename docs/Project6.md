@@ -104,7 +104,7 @@ Project 6 is open for collaborative validation and deployment. We are actively s
 ---
 
 ## IP Disclosure
-*The URS framework is protected under the provisional patent:
+*The URS framework is protected IP under patent pending status:
 "System and Method for Predicting Mass and Phase Drift via Quantized Substrate Geometry"*
 
 ---
