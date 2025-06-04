@@ -23,3 +23,11 @@ Ready to collaborate with URS? Start by reviewing our official documents:
 
 These documents outline how we work, what we protect, and how we partner responsibly. Please review them before reaching out — we look forward to hearing your ideas.
 
+Submission Instructions
+
+Once you have completed and signed the necessary documents:
+
+1. Scan and save your NDA and proposal form.
+2. Email them to: ursproject6@gmail.com
+3. Subject line: "Proposal Submission"
+4. You will receive confirmation and a follow-up within 5–7 business days.
