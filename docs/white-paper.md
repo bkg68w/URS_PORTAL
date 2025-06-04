@@ -25,7 +25,7 @@ The Standard Model (SM) and General Relativity (GR) leave open several foundatio
 - Why do decay and redshift correlate with curvature?
 - Why are constants like α small, fixed, and seemingly structureless?
 
-URS reframes these questions, treating reality not as built from particles but as a **resonant fabric**, where particle-like behaviors emerge from persistent geometric waveforms interacting in quantized space.
+URS reframes these questions, treating reality not as built from particles but as a **resonant substrate**, where particle-like behaviors emerge from persistent geometric waveforms interacting in quantized space.
 
 ---
 
