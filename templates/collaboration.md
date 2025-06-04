@@ -1,4 +1,4 @@
-# Collaborate with URS
+# URS
 Collaboration Agreements & NDA Access
 
 This section provides access to the official URS Collaboration Agreement and Mutual Non-Disclosure Agreement (NDA). These documents are designed to protect the integrity of shared work, ensure responsible use of privileged data, and formalize partnerships that align with the mission and ethos of URS.
@@ -9,13 +9,13 @@ By accessing or submitting these documents, you agree to uphold the values of sc
 
 # Collaborate With Us
 
-URS welcomes researchers, engineers, and institutions committed to responsible innovation.
+URS welcomes researchers, engineers and institutions committed to responsible innovation.
 
 <!-- 👇 Paste the snippet here 👇 -->
 
-##  Collaboration Materials
+##  The Paperwork
 
-Ready to collaborate with URS? Start by reviewing our official documents:
+Ready to start? Begin by reviewing and submitting our official documents:
 
 - [ Collaboration Agreement](/assets/URS_Collaboration_Agreement.pdf)
 - [ Mutual NDA ](/assets/URS_NDA_FORM.pdf)
