@@ -115,4 +115,5 @@ For full access or custom-run simulations, please submit a proposal via - [Colla
 
 ---
 
-*Last updated: June 2025*
+
+[← Return to Home](/index.md)
