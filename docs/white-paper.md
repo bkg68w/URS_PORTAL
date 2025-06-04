@@ -109,7 +109,7 @@ URS welcomes collaboration in the following areas:
 - Hardware design (quantum coherence preservation)
 - Ethical deployment of predictive physics
 
-Download NDA and proposal form from `/templates/`.
+To download NDA and proposal forms, please navigate to our collaboration page
 
 ---
 
