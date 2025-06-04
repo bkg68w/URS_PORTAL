@@ -30,5 +30,5 @@ How will you contribute?**
 - [Mission & Ethos](docs/mission.md)
 - [Theory Overview](docs/white-paper.md)
 - [Simulation Results](docs/validation.md)
-- [Project 6](simulations/)
+- [Project 6](docs/Project6.md)
 - [Collaboration & Proposals](templates/collaboration.md)
