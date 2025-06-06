@@ -5,7 +5,7 @@
 **Project 6** is the flagship application of the Unified Resonant Substrate (URS) theory — a live demonstration of URS’s ability to detect *quantum phase drift* in real-world systems.
 **Project 6** is a working prototype that uses validated simulations and theoretical predictions to measure resonance-induced decoherence, enabling **next-generation quantum stabilization** and **error forecasting** at the sub-field level.
 
-> Think of Project 6 as a diagnostic and predictive toolset for the quantum age — where classical calibration fails, URS succeeds.
+> Think of Project 6 as a diagnostic and predictive toolset for the quantum age — where classical calibration ends, URS begins.
 
 ---
 
