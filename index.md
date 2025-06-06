@@ -3,9 +3,6 @@ layout: default
 title: URS Online Portal
 ---
 <img src="/assets/URS_LOGO1.png" alt="URS Logo" width="800" style="display:block;margin:auto;" />
-<div style="text-align: center;">
-  ![URS Portal Logo]({{ "/assets/URS_LOGO1.png" | relative_url }})
-</div>
 
 
 
