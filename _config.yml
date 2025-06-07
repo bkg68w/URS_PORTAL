@@ -1,10 +1,17 @@
-theme: jekyll-theme-cayman
 title: URS Portal
 description: Unified Resonant Substrate Public Interface
+theme: jekyll-theme-cayman
+
+# These are critical for fixing link paths:
+baseurl: "/URS_PORTAL" # Must match your GitHub repo name exactly (case-sensitive!)
+url: "https://bkg68w.github.io" # Replace with your actual GitHub username
+ 
+# Include folders or files Jekyll might skip
 include:
-  - _includes/head-custom.html
-include:
+  - _includes
   - docs
-baseurl: "/URS_PORTAL"  # Only if using GitHub Pages default domain
-url: "https://bkg68w.github.io"
+  - templates
+  - assets
+# Optional: turn off future post filtering if using post dates
+future: true
 
