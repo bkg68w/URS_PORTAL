@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Collaboration
+permalink: /collaboration/
 ---
 
 # Collaboration Agreements & NDA Access
