@@ -1,3 +1,4 @@
+<img src="{{ '/assets/URS_logo2.png' | relative_url }}" alt="URS Logo" width="84" style="display:block;margin:auto;" />
 # Unified Resonant Substrate (URS) – Public Summary
 
 ## Abstract
