@@ -116,4 +116,5 @@ For full access or custom-run simulations, please submit a proposal via - [Colla
 ---
 
 
-[← Return to Home](/index.md)
+
+[← Return to Home]({{ 'index.html' | relative_url }})
