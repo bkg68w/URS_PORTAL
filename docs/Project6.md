@@ -12,11 +12,11 @@ This enhancement makes **Project 6** not just a detector of phase instability, b
 
 The decoherence grading model operates across multiple scales, meaning it can assess coherence at the level of:
 
-    Large simulated particle environments (e.g., LHC files)
+   - Large simulated particle environments (e.g., LHC files)
 
-    Single qubit systems (GHZ/Bell states)
+   - Single qubit systems (GHZ/Bell states)
 
-    Time-evolving systems in noise or curvature
+   - Time-evolving systems in noise or curvature
 
 **Project 6** offers a new way to interpret emergent mass behavior as a predictive signal of decoherence — effectively making URS a practical framework for quantum state integrity assessment in both research and commercial domains.
 
