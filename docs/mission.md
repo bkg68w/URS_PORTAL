@@ -4,7 +4,7 @@ The **Unified Resonant Substrate (URS)** project is dedicated to uncovering the 
 
 We believe that **truth arises from observation, integrity, and a willingness to challenge assumptions**. URS is being built to embody these values at every level — from its equations to its outreach, validations, and partnerships.
 
-> **Our goal is not simply to explain the universe, but to do so in a way that protects it.**
+> **Measure what can be measured, and make measurable what cannot be."  - Galileo Galilei**
 
 ---
 
