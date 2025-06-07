@@ -100,10 +100,8 @@ For full access to the URS_L6 formulation and core simulation code, collaboratio
 ## Contact & Participation
 
 - **Website**: [https://bkg68w.github.io/urs-portal/](https://bkg68w.github.io/urs-portal/)
-- **Proposal Submission**: See - [→ Collaboration Page]({{ '/collaboration.html' | relative_url }}) [→ Collaboration Page](/URS_PORTAL/collaboration.html)
-
-
-- **Educational Materials**: Coming soon `
+- **Proposal Submission**: See - [→ Collaboration Page]({{ '/collaboration/' | relative_url }})
+- **Educational Materials**: Coming soon 
 - **Contact**:**URSproject6@gmail.com**
 
 > URS is more than a theory — it's a commitment to clarity, care, and collaborative discovery.
