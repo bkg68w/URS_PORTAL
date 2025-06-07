@@ -1,3 +1,4 @@
+<img src="{{ '/assets/URS_logo2.png' | relative_url }}" alt="URS Logo" width="84" style="display:block;margin:auto;" />
 #  Project 6: Quantum Drift Detection & Stability Framework
 
 ## What Is Project 6?
