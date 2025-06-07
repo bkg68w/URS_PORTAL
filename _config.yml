@@ -6,3 +6,5 @@ include:
 include:
   - docs
 baseurl: "/URS_PORTAL"  # Only if using GitHub Pages default domain
+url: "https://bkg68w.github.io"
+
