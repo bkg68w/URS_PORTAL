@@ -95,7 +95,7 @@ The decoherence grading model operates across multiple scales, meaning it can as
 
 ### Short-Term:
 - Partner with quantum computing firms 
-- Deploy as SaaS diagnostic tool
+- Deploy as SaaS diagnostic tool, QSSaaS "Quantum Stabilization" the first of its kind
   
 
 ### Long-Term:
