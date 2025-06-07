@@ -12,6 +12,7 @@ include:
   - docs
   - templates
   - assets
+  - collaboration.md
 # Optional: turn off future post filtering if using post dates
 future: true
 
