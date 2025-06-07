@@ -108,4 +108,5 @@ Project 6 is open for collaborative validation and deployment. We are actively s
 ---
 
 
-[← Return to Home](/index.md)
+
+[← Return to Home]({{ 'index.html' | relative_url }})
