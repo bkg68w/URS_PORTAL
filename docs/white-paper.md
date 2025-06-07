@@ -106,4 +106,4 @@ For full access to the URS_L6 formulation and core simulation code, collaboratio
 
 > URS is more than a theory — it's a commitment to clarity, care, and collaborative discovery.
 
-[← Return to Home](/index.md)
+[← Return to Home]({{ 'index.html' | relative_url }})
