@@ -1,4 +1,4 @@
-<img src="{{ '/assets/URS_logo2.png' | relative_url }}" alt="URS Logo" width="400" style="display:block;margin:auto;" />
+<img src="{{ '/assets/URS_logo2.png' | relative_url }}" alt="URS Logo" width="42" style="display:block;margin:auto;" />
 # URS Mission Statement
 
 The **Unified Resonant Substrate (URS)** project is dedicated to uncovering the resonant structure of reality — to understanding **mass**, **time**, and **coherence** not as postulated phenomena but as **emergent features** of a deeper geometric harmony.
