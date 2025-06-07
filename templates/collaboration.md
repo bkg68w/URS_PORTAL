@@ -37,6 +37,6 @@ These documents outline how we work, what we protect, and how we partner respons
 
 
 [← Return to Home](/templates/index.md)
-[← Retarn to Home]({{ '/templates/index.md' | relative_url }})
-[← Retoon to Home]({{ '/index.md' | relative_url }})
+[← Return to Home]({{ '/' | relative_url }})
+[← Return to Home]({{ '/templates/' | relative_url }})
 
