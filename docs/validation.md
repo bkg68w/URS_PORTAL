@@ -94,11 +94,11 @@ m = \lambda N^\gamma + \kappa (\Delta \phi)^\delta
 
 ---
 
-##  Visualization and Demo Access
+##  Visualization and Demo  - Coming soon 
 
 - Bell/GHZ Simulation (Colab): [Launch](https://colab.research.google.com/placeholder)
 - Drift Timing Model: [Launch](https://colab.research.google.com/placeholder)
-- Time Emergence Grid Sim: [Launch](https://colab.research.google.com/placeholder)
+- LHC: root Verified Mass emergence: [Launch](https://colab.research.google.com/placeholder)
 
 *Note: Simulations are currently hosted in private Colab environments pending public sandbox release.*
 
@@ -111,7 +111,7 @@ All simulations:
 - Avoid retrofitting to known values
 - Are reproducible with clean inputs
 
-For full access or custom-run simulations, please submit a proposal via - [Collaboration & Proposals](/templates/collaboration.md).
+For full access or custom-run simulations, please submit a proposal via - [→ Collaboration Page]({{ '/collaboration/' | relative_url }})
 
 ---
 
