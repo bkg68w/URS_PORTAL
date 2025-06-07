@@ -14,9 +14,9 @@ title: URS Online Portal
 # **Welcome** to the Official **URS** Portal
 
 
-The Unified Resonant Substrate (URS) is a breakthrough physics framework that reimagines reality not as particles and forces, but as harmonics, resonance, and curvature woven into a dynamic geometric field. URS predicts the emergence of mass, time, and fundamental constants from a single substrate — no postulates, no black-box forces.
+**The Unified Resonant Substrate (URS)** is a breakthrough physics framework that reimagines reality not as particles and forces, but as harmonics, resonance, and curvature woven into a dynamic geometric field. URS predicts the emergence of mass, time, and fundamental constants from a single substrate — no postulates, no black-box forces.
 
-At the heart of this effort is - [Project 6](docs/Project6.md) — a bold initiative to detect and correct quantum drift in real-time, offering a path to more stable, reliable quantum computing.
+At the heart of this effort is **- [Project 6](docs/Project6.md)** — a bold initiative to detect and correct quantum drift in real-time, offering a path to more stable, reliable quantum computing.
 
 If we can predict the drift, we can preserve coherence.
 
