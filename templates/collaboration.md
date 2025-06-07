@@ -37,3 +37,4 @@ These documents outline how we work, what we protect, and how we partner respons
 
 
 [← Return to Home](/index.md)
+[← Return to Home ]({{ "/index.md" | relative_url }})
