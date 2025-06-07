@@ -30,7 +30,7 @@ These documents outline how we work, what we protect, and how we partner respons
 
 **Once you have completed and signed the necessary documents:**
 
-1. Scan and save your NDA and proposal form.
+1. Scan and save your NDA and proposal forms.
 2. Email them to: **URSproject6@gmail.com**
 3. Subject line:**"Proposal Submission"**
 4. You will receive confirmation and a follow-up within 5–7 business days.
