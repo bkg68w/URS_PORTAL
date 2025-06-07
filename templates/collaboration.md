@@ -3,7 +3,7 @@ layout: default
 title: Collaboration
 permalink: /collaboration/
 ---
-
+<img src="{{ '/assets/URS_logo2.png' | relative_url }}" alt="URS Logo" width="84" style="display:block;margin:auto;" />
 # Collaboration Agreements & NDA Access
 
 
