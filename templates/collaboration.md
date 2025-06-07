@@ -1,3 +1,11 @@
+---
+layout: default
+title: Collaboration
+---
+
+# Collaboration Agreements & NDA Access
+
+...
 
 ## Collaboration Agreements & NDA Access
 
