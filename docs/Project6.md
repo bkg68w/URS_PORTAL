@@ -4,11 +4,11 @@
 
 **Project 6** is the flagship application of the Unified Resonant Substrate (URS) theory — a live demonstration of URS’s ability to detect *quantum phase drift* in real-world systems.
 **Project 6** is a working prototype that uses validated simulations and theoretical predictions to measure resonance-induced decoherence, enabling **next-generation quantum stabilization** and **error forecasting** at the sub-field level. 
-Project 6 includes a fully integrated Decoherence Summary System — effectively transforming it into a quantum thermometer for real or simulated environments. By analyzing the predicted mass emergence of particles within a system, the tool generates a graded coherence health report, flagging areas of resonance drift before full decoherence occurs.
+**Project 6** includes a fully integrated Decoherence Summary System — effectively transforming it into a quantum thermometer for real or simulated environments. By analyzing the predicted mass emergence of particles within a system, the tool generates a graded coherence health report, flagging areas of resonance drift before full decoherence occurs.
 
 Each prediction is compared against validated baselines, and output is translated into intuitive drift categories ranging from Stable Resonance to Critical Drift. These categories allow researchers and engineers to quickly assess the quantum integrity of a system and take proactive measures.
 
-This enhancement makes Project 6 not just a detector of phase instability, but a live coherence diagnostic interface — capable of quantifying and visualizing quantum system health in real time.
+This enhancement makes **Project 6** not just a detector of phase instability, but a live coherence diagnostic interface — capable of quantifying and visualizing quantum system health in real time.
 
 The decoherence grading model operates across multiple scales, meaning it can assess coherence at the level of:
 
