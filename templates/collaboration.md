@@ -5,9 +5,7 @@ title: Collaboration
 
 # Collaboration Agreements & NDA Access
 
-...
 
-## Collaboration Agreements & NDA Access
 
 This section provides access to the official URS Collaboration Agreement and Mutual Non-Disclosure Agreement (NDA). These documents are designed to protect the integrity of shared work, ensure responsible use of privileged data, and formalize partnerships that align with the mission and ethos of URS.
 
