@@ -1,3 +1,4 @@
+<img src="{{ '/assets/URS_logo2.png' | relative_url }}" alt="URS Logo" width="84" style="display:block;margin:auto;" />
 # URS Simulation Validation Summary
 
 Current simulation validations for the **Unified Resonant Substrate (URS)** framework, grouped by **Tier 1 (core theoretical modeling) and Tier 2 (real-world alignment tests)**.
