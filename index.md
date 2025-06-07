@@ -18,7 +18,7 @@ title: URS Online Portal
 
 At the heart of this effort is **- [Project 6](docs/Project6.md)** — a bold initiative to detect and correct quantum drift in real-time, offering a path to more stable, reliable quantum computing.
 
-If we can predict the drift, we can preserve coherence.
+> *If we can predict the drift, we can preserve coherence*
 
 
 ## Explore the theory and join the next generation of scientific discovery and quantum innovation.
