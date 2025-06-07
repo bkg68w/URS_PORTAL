@@ -42,7 +42,7 @@ These documents outline how we work, what we protect, and how we partner respons
 4. You will receive confirmation and a follow-up within 5–7 business days.
 
 
-[← Return to Home]({{ 'index.html' | relative_url }}) [→ Collaboration Page]({{ '/collaboration/' | relative_url }})
+[← Return to Home]({{ 'index.html' | relative_url }})
 
 
 
